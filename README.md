@@ -1,9 +1,9 @@
 <h2> Hi, I'm Vivvi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-[![Twitter: Vivvi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/vachetvirginie)
-[![Linkedin: Vivvi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
-[![GitHub Vivvi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/vachetvirginie)
+[![Twitter: Vivvi](https://img.shields.io/twitter/follow/VachetVirginie?style=social)](https://twitter.com/vachetvirginie)
+[![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
+[![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie)
 
 [![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
 
