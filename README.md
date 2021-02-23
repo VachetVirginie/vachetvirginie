@@ -3,6 +3,11 @@
 <p>Welcome to my page! </br> I'm Vivvi, developer from <b>Lunel</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon</b>. </p>
 
 [![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
+
+
+### 🧑‍💻  This week, I spent my time on:
+
+[![Vivvi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vachetvirginie&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/vachetvirginie/github-readme-stats)
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
