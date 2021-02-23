@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie)](https://github.com/vachetvirginie/github-readme-stats)
+[![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
