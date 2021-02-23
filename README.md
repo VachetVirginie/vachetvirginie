@@ -4,10 +4,20 @@
 
 [![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
 
+## 🏆 GitHub Trophies
 
-### 🧑‍💻  This week, I spent my time on:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vachetvirginie&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Vivvi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vachetvirginie&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/vachetvirginie/github-readme-stats)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/vachetvirginie/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vachetvirginie&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/vachetvirginie/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vachetvirginie&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+</a>
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
