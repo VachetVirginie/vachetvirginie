@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p>Welcome to my page! </br> I'm Vivvi, developer from <b>Lunel, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lyon</b>. </p>
 [![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
