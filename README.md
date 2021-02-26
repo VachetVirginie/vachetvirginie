@@ -26,7 +26,6 @@
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a class="twitter-timeline" data-lang="fr" data-width="300" data-height="400" data-theme="light" href="https://twitter.com/VirginieVachet?ref_src=twsrc%5Etfw">Tweets by VirginieVachet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
