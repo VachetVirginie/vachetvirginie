@@ -1,5 +1,8 @@
 <h2> Hi, I'm Vivvi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+[![Github Allysonubius](https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg?style=for-the-badge&logo=Test)](https://github.com/Allysonubius)
+[![Github Allysonubius](https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff)](https://github.com/Allysonubius)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=Allysonubius)
 
 [![Twitter: Vivvi](https://img.shields.io/twitter/follow/VirginieVachet?style=social)](https://twitter.com/VirginieVachet)
 [![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
