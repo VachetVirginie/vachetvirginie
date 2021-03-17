@@ -5,10 +5,9 @@
 [![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
 [![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie)
 
-[![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/vachetvirginie/github-readme-stats)
+[![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&layout=compact)](https://github.com/vachetvirginie/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
