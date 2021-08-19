@@ -23,6 +23,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vachetvirginie&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vachetvirginie&show_icons=true&locale=en&layout=compact" alt="vachetvirginie" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vachetvirginie&show_icons=true&locale=en" alt="vachetvirginie" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vachetvirginie&" alt="vachetvirginie" /></p>
 <!--
 **VachetVirginie/vachetvirginie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
