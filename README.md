@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vivvi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-I'm a web developer, french 🇫🇷  from south ☀️ living in Lyon ![Tête de lion](https://abs-0.twimg.com/emoji/v2/svg/1f981.svg "Tête de lion")!
+I'm a web developer, french 🇫🇷  from south ☀️ living in Lyon 🦁!
 --------------------------------------------------------------------------------------------------------------------
 
 [![Twitter: Vivvi](https://img.shields.io/twitter/follow/VirginieVachet?style=social)](https://twitter.com/VirginieVachet)
