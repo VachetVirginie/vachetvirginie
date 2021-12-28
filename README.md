@@ -1,4 +1,6 @@
 <h2> Hi, I'm Vivvi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+I'm a web developer, french 🇫🇷  from south ☀️ living in Lyon ![Tête de lion](https://abs-0.twimg.com/emoji/v2/svg/1f981.svg "Tête de lion")!
+--------------------------------------------------------------------------------------------------------------------
 
 [![Twitter: Vivvi](https://img.shields.io/twitter/follow/VirginieVachet?style=social)](https://twitter.com/VirginieVachet)
 [![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
