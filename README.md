@@ -5,7 +5,13 @@
 [![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
 [![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VachetVirginie/VachetVirginie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VachetVirginie/VachetVirginie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VachetVirginie/VachetVirginie/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 **Languages and Tools:**  
