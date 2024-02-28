@@ -6,7 +6,7 @@
 [![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 **Languages and Tools:**  
 
