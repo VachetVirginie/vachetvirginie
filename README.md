@@ -7,7 +7,6 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-![Metrics](https://github.com/VirginieVachet/VirginieVachet/blob/main/github-metrics.svg)
 
 **Languages and Tools:**  
 
