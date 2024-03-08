@@ -3,7 +3,7 @@
 
 [![Twitter: Vivvi](https://img.shields.io/twitter/follow/VirginieVachet?style=social)](https://twitter.com/VirginieVachet)
 [![Linkedin: Vivvi](https://img.shields.io/badge/-VachetVirginie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vachetvirginie/)](https://www.linkedin.com/in/vachetvirginie/)
-[![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie)
+[![GitHub Vivvi](https://img.shields.io/github/followers/VachetVirginie?label=follow&style=social)](https://github.com/vachetvirginie&theme=discord)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
