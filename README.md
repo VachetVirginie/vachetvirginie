@@ -19,9 +19,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## Stats 📊
+<img alt="MisterAzix's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=vachetvirginie&hide=stars&show_icons=true&hide_border=true&theme=vue-dark"/>
 
-
-
-## 🏆 GitHub Trophies
+## GitHub Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vachetvirginie&theme=discord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
