@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=1697f6" alt="Vuetify">
   <img src="https://img.shields.io/badge/PrimeVue-3C873A?style=for-the-badge&labelColor=black&logo=primevue.js&logoColor=3C873A" alt="PrimeVue">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-    <img src="https://img.shields.io/badge/vitest-fcc72b?style=for-the-badge&logo=vitest&logoColor=black&labelColor=23506e10&color=F0DB4F" alt="Vitest">
+    <img src="https://img.shields.io/badge/vitest-729b1a?style=for-the-badge&logo=vitest&logoColor=F0DB4F&labelColor=23506e10&color=black" alt="Vitest">
   <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphQL&logoColor=de33a6" alt="GraphQL">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
