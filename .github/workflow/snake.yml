@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ MY_SECRET_NAME }}
+          GITHUB_TOKEN: 'MY_SECRET_NAME'
