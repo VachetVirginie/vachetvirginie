@@ -20,11 +20,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=3FB27F" alt="VueJs">
-    <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF" alt="Nuxt.js">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="VueJs">
+    <img src="https://img.shields.io/badge/Nuxt-050922?style=for-the-badge&logo=nuxtdotjs" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind">
   <img src="https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify">
   <img src="https://img.shields.io/badge/PrimeVue-3C873A?style=for-the-badge&labelColor=black&logo=primevue.js&logoColor=3C873A" alt="PrimeVue">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+    <img src="https://img.shields.io/badge/vitest-fcc72b?style=for-the-badge&logo=vitest&logoColor=black&labelColor=23506e10&color=F0DB4F" alt="Vitest">
   <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphQL&logoColor=white" alt="GraphQL">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
@@ -35,6 +37,9 @@
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+    <img src="https://img.shields.io/badge/pnpm-339933?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm">
+
 </div>
 <br> 
 <br>
