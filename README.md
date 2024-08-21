@@ -11,7 +11,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VachetVirginie/VachetVirginie/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vachetvirginie&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 **Languages and Tools:**  
