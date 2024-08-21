@@ -23,15 +23,15 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="VueJs">
     <img src="https://img.shields.io/badge/Nuxt-050922?style=for-the-badge&logo=nuxtdotjs" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify">
+  <img src="https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=1697f6" alt="Vuetify">
   <img src="https://img.shields.io/badge/PrimeVue-3C873A?style=for-the-badge&labelColor=black&logo=primevue.js&logoColor=3C873A" alt="PrimeVue">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
     <img src="https://img.shields.io/badge/vitest-fcc72b?style=for-the-badge&logo=vitest&logoColor=black&labelColor=23506e10&color=F0DB4F" alt="Vitest">
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphQL&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphQL&logoColor=de33a6" alt="GraphQL">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm">
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=ea00d9" alt="PhpStorm">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
