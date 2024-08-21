@@ -1,2 +1,2 @@
 env:
-  GITHUB_TOKEN: ${{ MY_SECRET_NAME }}
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
