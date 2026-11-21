@@ -52,6 +52,6 @@
 <br> 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/github-snake-dark.svg" alt="snake">
-</p>
+</p> -->
